@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_info_z-DisclosureIcon-Image</name>
+   <tag></tag>
+   <elementGuidId>0f572ba9-7e6e-4e99-be22-2b1b767c0fe4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.z-DisclosureIcon-Image</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-WorkspaceHolder&quot;]/div[2]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;gwt-SplitLayoutPanel&quot;]/div[4]/div[@class=&quot;z-DataView z-DataView-Selected&quot;]/div[2]/div[1]/div[3]/div[@class=&quot;z-FlowVerticalPanel noWrap zrl-FlexVertical z-Workspace&quot;]/div[1]/div[@class=&quot;z-DisclosurePanel z-RoundedPanelFullWidth z-DisclosurePanel-closed&quot;]/div[@class=&quot;header&quot;]/a[@class=&quot;headerAnchor&quot;]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-DisclosureIcon z-DisclosureIcon-down-hovering&quot;]/img[@class=&quot;z-DisclosureIcon-Image&quot;][count(. | //*[@src = 'system/icons/disclosure_right.png']) = count(//*[@src = 'system/icons/disclosure_right.png'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>740b93d3-21d5-47c8-b661-18d0ff151e53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>system/icons/disclosure_right.png</value>
+      <webElementGuid>7a6d1962-01d7-4794-8325-b1216de87a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-DisclosureIcon-Image</value>
+      <webElementGuid>0600a678-b38b-4aac-ae1a-2c2b37d5a360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-WorkspaceHolder&quot;]/div[2]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;gwt-SplitLayoutPanel&quot;]/div[4]/div[@class=&quot;z-DataView z-DataView-Selected&quot;]/div[2]/div[1]/div[3]/div[@class=&quot;z-FlowVerticalPanel noWrap zrl-FlexVertical z-Workspace&quot;]/div[1]/div[@class=&quot;z-DisclosurePanel z-RoundedPanelFullWidth z-DisclosurePanel-closed&quot;]/div[@class=&quot;header&quot;]/a[@class=&quot;headerAnchor&quot;]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-DisclosureIcon z-DisclosureIcon-down-hovering&quot;]/img[@class=&quot;z-DisclosureIcon-Image&quot;]</value>
+      <webElementGuid>8f297ab6-d5ff-48b2-bccf-2629cf98f1c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/img</value>
+      <webElementGuid>c24dbeda-90f8-47e8-b279-b356b5ca368f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'system/icons/disclosure_right.png']</value>
+      <webElementGuid>3137ccf4-3cbc-4851-a3aa-c2639dd03653</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Filters</name>
+   <tag></tag>
+   <elementGuidId>69699245-2ca4-4ded-b3cf-6315e46e438e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.headerAnchor > div.z-FlowHorizontalPanel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='house'])[1]/following::div[21]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec027237-6081-4531-a59f-3f1a9ccae360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-FlowHorizontalPanel</value>
+      <webElementGuid>b8503ab7-73ec-40fb-8df7-c9a234c3c978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filters</value>
+      <webElementGuid>7a358b95-87b0-46eb-b028-04c53eeccf2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-WorkspaceHolder&quot;]/div[2]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;gwt-SplitLayoutPanel&quot;]/div[4]/div[@class=&quot;z-DataView z-DataView-Selected&quot;]/div[2]/div[1]/div[3]/div[@class=&quot;zrl-FlexVertical z-Workspace&quot;]/div[@class=&quot;z-DisclosurePanel z-RoundedPanelFullWidth z-DisclosurePanel-closed&quot;]/div[@class=&quot;header&quot;]/a[@class=&quot;headerAnchor&quot;]/div[@class=&quot;z-FlowHorizontalPanel&quot;]</value>
+      <webElementGuid>4e9a904c-1159-43ed-9f1d-fa1954f482c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='house'])[1]/following::div[21]</value>
+      <webElementGuid>16489843-98e3-42d2-a682-6c69b7fd70d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='logout'])[1]/following::div[57]</value>
+      <webElementGuid>b16a4f91-67e0-4de1-bfec-e1be20a17fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student'])[1]/preceding::div[6]</value>
+      <webElementGuid>066ab9b9-8ed0-40b9-b5ac-ed8138fad608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>6852de2a-8ff7-45a5-a4db-083078d47ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Filters' or . = 'Filters')]</value>
+      <webElementGuid>40360cf3-2247-4f06-afe1-dd87cf936c00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

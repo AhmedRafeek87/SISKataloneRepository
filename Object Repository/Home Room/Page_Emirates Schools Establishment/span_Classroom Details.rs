@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Classroom Details</name>
+   <tag></tag>
+   <elementGuidId>7316c793-c6fa-451d-b8a9-35ff688472d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@id='TEXT'])[24]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.z-MenuItem-Action > #TEXT</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>32872e11-08aa-4bc3-9fab-24b493964729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TEXT</value>
+      <webElementGuid>074d7c43-ff82-4f71-8d13-a2afc0a36688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Classroom Details</value>
+      <webElementGuid>f0769d3f-65d0-4b06-ab48-a7d210f16904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;gwt-PopupPanel&quot;]/div[@class=&quot;popupContent&quot;]/table[1]/tbody[1]/tr[1]/td[1]/button[@class=&quot;z-MenuItem-Action&quot;]/span[@id=&quot;TEXT&quot;]</value>
+      <webElementGuid>916b0d55-d015-4a1a-939c-0c4525984424</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@id='TEXT'])[24]</value>
+      <webElementGuid>bcea1005-5e12-4cda-a815-3545c06b7666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ELECT/412[General]/ Biology'])[1]/following::span[1]</value>
+      <webElementGuid>2c203480-84bf-4a13-83ce-1ea97c282c6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ELECT/312[General]/ Biology'])[1]/following::span[2]</value>
+      <webElementGuid>9dd0adc3-fdb4-49e7-a537-f173e4878e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Classroom Details']/parent::*</value>
+      <webElementGuid>afa6af35-0bb4-4a78-af64-6ac7e53267d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/button/span</value>
+      <webElementGuid>46402b7c-a0c2-40cd-8184-21fa5e5f8f82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'TEXT' and (text() = 'Classroom Details' or . = 'Classroom Details')]</value>
+      <webElementGuid>645fce02-054d-4469-9d52-45a11a02e586</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

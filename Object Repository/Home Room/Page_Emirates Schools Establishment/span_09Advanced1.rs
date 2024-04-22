@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_09Advanced1</name>
+   <tag></tag>
+   <elementGuidId>55a46461-750a-456b-8471-b40970d0ab40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='G9-ADV'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gwt-Label.z-CardCommandLabel.z-CardTitle > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b2b70bc3-b475-44c2-9f5e-a418219c6b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>09[Advanced]/1</value>
+      <webElementGuid>27267aa3-8894-4439-8561-b2e74c3550b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-WorkspaceHolder&quot;]/div[2]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;gwt-SplitLayoutPanel&quot;]/div[4]/div[@class=&quot;z-DataView z-DataView-Selected&quot;]/div[2]/div[1]/div[3]/div[@class=&quot;zrl-FlexVertical z-Workspace&quot;]/div[@class=&quot;z-FlowVerticalPanel z-RoundedPanelFullWidth zrl-FlexUseAvailableVertical zrl-FlexVertical&quot;]/div[@class=&quot;z-OverflowAuto z-DisplayBlock zrl-FlexUseAvailableVertical&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel z-RoundedPanelFullWidth z-Margin-Top-0&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-CardStyle&quot;]/div[@class=&quot;z-FlowHorizontalPanel noWrap zrl-FlexHorizontal&quot;]/div[@class=&quot;gwt-Label z-CardCommandLabel z-CardTitle&quot;]/span[1]</value>
+      <webElementGuid>210570d6-d4c2-4b7b-a47f-0b0c2cdfc954</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='G9-ADV'])[1]/following::span[1]</value>
+      <webElementGuid>17e8a3b8-92e8-4222-a405-5585db31bc68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='expand_less'])[1]/following::span[1]</value>
+      <webElementGuid>add0b9a6-b490-4b54-a2a3-09a6da3e20f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='expand_less'])[2]/preceding::span[1]</value>
+      <webElementGuid>9031d5e8-e209-4357-9456-e6a99e514134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='G9-GEN'])[1]/preceding::span[2]</value>
+      <webElementGuid>d93823eb-b75e-40a2-9696-24b0bfed10a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='09[Advanced]/1']/parent::*</value>
+      <webElementGuid>c20568c9-6a8b-432b-a6b6-d9b46af40653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/span</value>
+      <webElementGuid>7e9fe89c-0426-45a4-8f48-6a4d11d98dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '09[Advanced]/1' or . = '09[Advanced]/1')]</value>
+      <webElementGuid>9bfb024a-855b-4194-9013-cc722881b893</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
